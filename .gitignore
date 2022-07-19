@@ -14,6 +14,7 @@ results
 *.class
 *.jar
 *.zip
+!/core/java8/proxy/libs/*.jar
 
 # Environments
 /ansible/environments/*
