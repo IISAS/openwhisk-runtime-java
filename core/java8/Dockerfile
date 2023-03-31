@@ -34,6 +34,12 @@ ENV LANG="en_US.UTF-8" \
 	UPDATE=222 \
 	BUILD=10
 
+RUN apt -y update
+RUN DEBIAN_FRONTEND=noninteractive apt-get -y install keyboard-configuration
+RUN apt-get -y install software-properties-common
+RUN add-apt-repository ppa:ubuntuhandbook1/apps
+RUN apt -y install hugin hugin-data hugin-tools
+
 ADD proxy /javaAction
 
 RUN cd /javaAction \
