@@ -1,0 +1,444 @@
+<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg">
+	<vpList xclass="java.util.ArrayList">
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1273_565_1634208727111.png" width="0" height="0" tomcatPath="" x="1273.0" y="565.0">
+			<dist value="230.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1111_436_1634210993739.png" width="0" height="0" tomcatPath="" x="1111.0" y="436.0">
+			<dist value="4800.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1251_477_1634211442326.png" width="0" height="0" tomcatPath="" x="1251.0" y="477.0">
+			<dist value="660.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1155_490_1634211604272.png" width="0" height="0" tomcatPath="" x="1155.0" y="490.0">
+			<dist value="670.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_538_481_1634211986498.png" width="0" height="0" tomcatPath="" x="538.0" y="481.0">
+			<dist value="900.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_499_475_1634212014052.png" width="0" height="0" tomcatPath="" x="499.0" y="475.0">
+			<dist value="900.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_187_480_1634212249920.png" width="0" height="0" tomcatPath="" x="187.0" y="480.0">
+			<dist value="1000.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1053_505_1634213139861.png" width="0" height="0" tomcatPath="" x="1053.0" y="505.0">
+			<dist value="500.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_325_502_1634213809170.png" width="0" height="0" tomcatPath="" x="325.0" y="502.0">
+			<dist value="560.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1407_88_1634214025005.png" width="0" height="0" tomcatPath="" x="1407.0" y="88.0">
+			<dist value="35.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1468_393_1634214055263.png" width="0" height="0" tomcatPath="" x="1468.0" y="393.0">
+			<dist value="35.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1440_939_1634214269557.png" width="0" height="0" tomcatPath="" x="1440.0" y="939.0">
+			<dist value="35.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_267_457_1634214711227.png" width="0" height="0" tomcatPath="" x="267.0" y="457.0">
+			<dist value="2300.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_591_457_1634214796395.png" width="0" height="0" tomcatPath="" x="591.0" y="457.0">
+			<dist value="2300.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1212_736_1634386811240.png" width="0" height="0" tomcatPath="" x="1212.0" y="736.0">
+			<dist value="89.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1138_882_1634386901339.png" width="0" height="0" tomcatPath="" x="1138.0" y="882.0">
+			<dist value="54.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_331_811_1634387088684.png" width="0" height="0" tomcatPath="" x="331.0" y="811.0">
+			<dist value="75.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_579_717_1634387137673.png" width="0" height="0" tomcatPath="" x="579.0" y="717.0">
+			<dist value="97.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1039_685_1634387239793.png" width="0" height="0" tomcatPath="" x="1039.0" y="685.0">
+			<dist value="116.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1344_639_1634387467488.png" width="0" height="0" tomcatPath="" x="1344.0" y="639.0">
+			<dist value="147.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1255_627_1634387540542.png" width="0" height="0" tomcatPath="" x="1255.0" y="627.0">
+			<dist value="156.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1020_609_1634387646486.png" width="0" height="0" tomcatPath="" x="1020.0" y="609.0">
+			<dist value="170.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1039_558_1634387754841.png" width="0" height="0" tomcatPath="" x="1039.0" y="558.0">
+			<dist value="230.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1053_522_1634387863868.png" width="0" height="0" tomcatPath="" x="1053.0" y="522.0">
+			<dist value="300.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1053_513_1634387876671.png" width="0" height="0" tomcatPath="" x="1053.0" y="513.0">
+			<dist value="400.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1074_501_1634387982874.png" width="0" height="0" tomcatPath="" x="1074.0" y="501.0">
+			<dist value="500.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1188_508_1634388052010.png" width="0" height="0" tomcatPath="" x="1188.0" y="508.0">
+			<dist value="510.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1356_508_1634388082429.png" width="0" height="0" tomcatPath="" x="1356.0" y="508.0">
+			<dist value="520.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_762_459_1634389618452.png" width="0" height="0" tomcatPath="" x="762.0" y="459.0">
+			<dist value="1800.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1101_454_1634818463478.png" width="0" height="0" tomcatPath="" x="1101.0" y="454.0">
+			<dist value="1400.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_373_432_1634818874634.png" width="0" height="0" tomcatPath="" x="373.0" y="432.0">
+			<dist value="4200.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_484_436_1634819451782.png" width="0" height="0" tomcatPath="" x="484.0" y="436.0">
+			<dist value="4200.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_624_435_1634819982001.png" width="0" height="0" tomcatPath="" x="624.0" y="435.0">
+			<dist value="4200.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1437_648_1634820318450.png" width="0" height="0" tomcatPath="" x="1437.0" y="648.0">
+			<dist value="35.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1354_559_1634820429658.png" width="0" height="0" tomcatPath="" x="1354.0" y="559.0">
+			<dist value="200.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_574_504_1634820779829.png" width="0" height="0" tomcatPath="" x="574.0" y="504.0">
+			<dist value="520.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_765_504_1634820831775.png" width="0" height="0" tomcatPath="" x="765.0" y="504.0">
+			<dist value="510.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_931_550_1634821119271.png" width="0" height="0" tomcatPath="" x="931.0" y="550.0">
+			<dist value="230.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_756_487_1634912460196.png" width="0" height="0" tomcatPath="" x="756.0" y="487.0">
+			<dist value="830.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_358_450_1634913827609.png" width="0" height="0" tomcatPath="" x="358.0" y="450.0">
+			<dist value="2500.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1293_418_1634913984161.png" width="0" height="0" tomcatPath="" x="1293.0" y="418.0">
+			<dist value="11500.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_945_634_1634916401427.png" width="0" height="0" tomcatPath="" x="945.0" y="634.0">
+			<dist value="133.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_928_628_1634916418809.png" width="0" height="0" tomcatPath="" x="928.0" y="628.0">
+			<dist value="133.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		
+		
+		
+		
+		
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_550_258_1636568782482.png" width="0" height="0" tomcatPath="" x="550.0" y="258.0">
+			<dist value="15100.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_547_276_1636569247177.png" width="0" height="0" tomcatPath="" x="547.0" y="276.0">
+			<dist value="15100.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_591_241_1636569625768.png" width="0" height="0" tomcatPath="" x="591.0" y="241.0">
+			<dist value="14600.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_643_244_1636569860124.png" width="0" height="0" tomcatPath="" x="643.0" y="244.0">
+			<dist value="14200.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_795_286_1636569948801.png" width="0" height="0" tomcatPath="" x="795.0" y="286.0">
+			<dist value="14300.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_868_318_1636570085033.png" width="0" height="0" tomcatPath="" x="868.0" y="318.0">
+			<dist value="15100.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_963_352_1636570348080.png" width="0" height="0" tomcatPath="" x="963.0" y="352.0">
+			<dist value="18100.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1062_355_1636570392612.png" width="0" height="0" tomcatPath="" x="1062.0" y="355.0">
+			<dist value="17900.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1176_376_1636570452174.png" width="0" height="0" tomcatPath="" x="1176.0" y="376.0">
+			<dist value="18000.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1174_378_1636570588596.png" width="0" height="0" tomcatPath="" x="1174.0" y="378.0">
+			<dist value="15500.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1269_391_1636570650791.png" width="0" height="0" tomcatPath="" x="1269.0" y="391.0">
+			<dist value="17600.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1341_417_1636570707781.png" width="0" height="0" tomcatPath="" x="1341.0" y="417.0">
+			<dist value="17700.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1437_414_1636570774796.png" width="0" height="0" tomcatPath="" x="1437.0" y="414.0">
+			<dist value="19700.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_1435_427_1636570941782.png" width="0" height="0" tomcatPath="" x="1435.0" y="427.0">
+			<dist value="19500.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_360_397_1636571456970.png" width="0" height="0" tomcatPath="" x="360.0" y="397.0">
+			<dist value="7800.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_546_403_1636571523506.png" width="0" height="0" tomcatPath="" x="546.0" y="403.0">
+			<dist value="7900.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_685_402_1636571585979.png" width="0" height="0" tomcatPath="" x="685.0" y="402.0">
+			<dist value="8000.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_739_409_1636571659215.png" width="0" height="0" tomcatPath="" x="739.0" y="409.0">
+			<dist value="8100.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+		<x xclass="com.microstepmis.remoteObserver.visibility.automated.VisiblePointsCfg$VPCfg" azimuth="0.0" path="C:\\Users/jozeff/Desktop/ImageVisibilityHandler/cfgs/automated/ImageVisibilityHandler\cfgs\automated/VisibilityPointsPanasonic-000/Point_846_408_1636571715968.png" width="0" height="0" tomcatPath="" x="846.0" y="408.0">
+			<dist value="8200.0" />
+			<types>
+				<x>LABEL_TYPE_DAY</x>
+				<x>LABEL_TYPE_NIGHT</x>
+			</types>
+		</x>
+	</vpList>
+</x>
+

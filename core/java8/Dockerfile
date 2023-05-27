@@ -41,6 +41,7 @@ RUN add-apt-repository ppa:ubuntuhandbook1/apps
 RUN apt -y install hugin hugin-data hugin-tools
 
 ADD proxy /javaAction
+ADD cfgs /cfgs
 
 RUN cd /javaAction \
 	&& rm -rf .classpath .gitignore .gradle .project .settings Dockerfile build \

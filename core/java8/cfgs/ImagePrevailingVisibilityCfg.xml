@@ -1,0 +1,15 @@
+<x xclass="com.microstepmis.remoteObserver.visibility.automated.ImagePrevailingVisibility$ImagePrevailingVisibilityCfg">
+	<numThreads>8</numThreads>
+	<imageResolutionX>1920</imageResolutionX>
+	<maxDistDiff>0.1</maxDistDiff>
+	<maxXdiff>0.33</maxXdiff>
+	<nNeighbours>5</nNeighbours>
+	
+	<edgeDilationIterations>1</edgeDilationIterations>
+	<cutRadius>5</cutRadius>
+	<minEdgeIntersection>0.7</minEdgeIntersection>
+	<minCannyThreshold>30</minCannyThreshold>
+	<cannyThreshold>200</cannyThreshold>
+	<cannyThresholdStep>5</cannyThresholdStep>
+	
+</x>

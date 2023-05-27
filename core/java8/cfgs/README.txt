@@ -1,0 +1,1 @@
+in ./automated we have to rewrite paths in configs VPConfig-XXX.xml to VisibilityPointsPanasonic-XXX masks images
